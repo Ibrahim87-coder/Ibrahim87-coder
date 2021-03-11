@@ -77,12 +77,10 @@ I love sharing knowledge and putting tutorials, courses .
 
 <!--START_SECTION:waka-->
 ```text
-Angular         15 hrs 41 mins   ████████████████████▓░░░░   52.29 % 
-C-Sharp         12 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   40.61 % 
-Github          1 hr 27 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other           2 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML            2 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
+Angular         15 hrs 41 mins   ███████████████░░░░░░░░░░   52.00 % 
+C-Sharp         12 hr 50 mins    █████████████░░░░░░░░░░░░   40.00 % 
+Github          1 hr 27 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
