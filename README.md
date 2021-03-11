@@ -22,8 +22,6 @@ I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outs
 
 
 ### Tutorials
-<!-- 
-[<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angularplaylist] -->
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -54,17 +52,10 @@ I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outs
 
 <br />
 <br />
-<!-- 
-#### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com -->
-
-
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.https://visitor-badge.glitch.me/badge?page_id=ibrahim87-coder.ibrahim87-coder)
 
-<details>
 <summary>
   More stuff about me
 </summary>
@@ -75,17 +66,13 @@ I love sharing knowledge and putting tutorials, courses .
 
 #### Coding Stats
 
-<!--START_SECTION:waka-->
 ```text
 Angular         15 hrs 41 mins   ███████████████░░░░░░░░░░   52.00 % 
 C-Sharp         12 hr 50 mins    █████████████░░░░░░░░░░░░   40.00 % 
 Github          1 hr 27 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 
-<!--END_SECTION:waka-->
-
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ibrahim87-coder&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
 
