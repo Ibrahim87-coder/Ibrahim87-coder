@@ -52,7 +52,7 @@ I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outs
 
 <br />
 <br />
-#### Profile Visits 
+### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.https://visitor-badge.glitch.me/badge?page_id=ibrahim87-coder.ibrahim87-coder)
 
@@ -62,16 +62,16 @@ I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outs
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses .
+I love sharing knowledge and putting tutorials, courses!
 
-#### Coding Stats
+### Coding Stats
 
 ```text
 Angular         15 hrs 41 mins   ███████████████░░░░░░░░░░   52.00 % 
 C-Sharp         12 hr 50 mins    █████████████░░░░░░░░░░░░   40.00 % 
 Github          1 hr 27 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-
-#### Github Stats
+```
+### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ibrahim87-coder&count_private=true&theme=tokyonight&hide=contribs,prs)
 
