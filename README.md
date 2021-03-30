@@ -59,18 +59,8 @@ I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outs
 <summary>
   More stuff about me
 </summary>
+<hr>
 
-<br >
-
-I love sharing knowledge and putting tutorials, courses!
-
-### Coding Stats
-
-```text
-Angular         15 hrs 41 mins   ███████████████░░░░░░░░░░   52.00 % 
-C-Sharp         12 hr 50 mins    █████████████░░░░░░░░░░░░   40.00 % 
-Github          1 hr 27 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-```
 ### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ibrahim87-coder&count_private=true&theme=tokyonight&hide=contribs,prs)
@@ -79,12 +69,12 @@ Github          1 hr 27 mins     ██░░░░░░░░░░░░░�
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
   <p align="center">
-    ```
+    "
     <a href="https://www.linkedin.com/in/ibrahim-zakaria/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
     <a href="https://www.instagram.com/ibrahimzak10/" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
     <a href="https://www.facebook.com/madahetooo" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
     <a href="https://github.com/Ibrahim87-coder" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
-  ```
+   "
   </p> 
 </p>
 
