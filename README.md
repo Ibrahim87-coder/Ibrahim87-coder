@@ -52,7 +52,8 @@ I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outs
 
 <br />
 <br />
-### Profile Visits 
+
+#### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.https://visitor-badge.glitch.me/badge?page_id=ibrahim87-coder.ibrahim87-coder)
 
@@ -63,7 +64,9 @@ I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outs
 
 ### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ibrahim87-coder&count_private=true&theme=tokyonight&hide=contribs,prs)
+![My github stats](https://github-readme-stats.vercel.app/api?username=ibrahim87-coder&show_icons=true)
+
+
 
 <hr>
 <p align="center">
