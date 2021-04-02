@@ -34,7 +34,7 @@ I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outs
 <hr>
 
 <!-- GitHub stats -->
-<b>⚡ My GitHub Statistics</b>
+<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="40"><b> My GitHub Statistics</b>
 
 <p>
 <!-- GitHub Stats -->
@@ -57,10 +57,6 @@ I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outs
    "
   </p> 
 </p>
-
-
----
-<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="40"> <b>Nice to meet you!!</b>
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.linkedin.com/in/ibrahim-zakaria/">follow me</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 😊 💜</em>
