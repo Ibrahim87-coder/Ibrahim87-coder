@@ -1,17 +1,18 @@
-![Banner](https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg)
-## Hi I'm Ibrahim <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outstanding projects .
-
+![Banner](https://jelvix.com/wp-content/uploads/2020/01/cover_1-1-1.jpg)
 <!-- visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/ibrahim87-coder/count.svg" />
 </p>
 
+## Hi I'm Ibrahim <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outstanding projects .
+
+
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ibrahim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-zakaria-21a0571b9/) [![Mail Badge](https://img.shields.io/badge/-@ibrahimzak10-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ibrahimzak10/) [![Mail Badge](https://img.shields.io/badge/-ibrahimcoder-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ibrahimcoder87@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ibrahim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-zakaria/) [![Mail Badge](https://img.shields.io/badge/-@ibrahimzak10-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ibrahimzak10/) [![Mail Badge](https://img.shields.io/badge/-ibrahimcoder-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ibrahimcoder87@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -58,3 +59,8 @@ I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outs
 </p>
 
 
+---
+<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="40"> <b>Nice to meet you!!</b>
+
+---
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.linkedin.com/in/ibrahim-zakaria/">follow me</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 😊 💜</em>
