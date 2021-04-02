@@ -62,10 +62,16 @@ I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outs
 </summary>
 <hr>
 
-### Github Stats
+<!-- GitHub stats -->
+<b>⚡ My GitHub Statistics</b>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=ibrahim87-coder&show_icons=true)
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahim87-coder&&show_icons=true&hide_border=true" />
 
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim87-coder&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 
 <hr>
