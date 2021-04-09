@@ -52,7 +52,7 @@ I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outs
     "
     <a href="https://www.linkedin.com/in/ibrahim-zakaria/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
     <a href="https://www.instagram.com/ibrahimzak10/" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
-    <a href="https://www.facebook.com/madahetooo" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
+    <a href="https://m.facebook.com/ibrahim.zakaria.1422" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
     <a href="https://github.com/Ibrahim87-coder" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
    "
   </p> 
