@@ -1,14 +1,11 @@
 ![Banner](https://jelvix.com/wp-content/uploads/2020/01/cover_1-1-1.jpg)
 <!-- visitor counter -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/ibrahim87-coder/count.svg" />
-</p>
 
 ## Hi I'm Ibrahim <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Ibrahim Zakaria a Full Stack Web Developer. I Spend most of time coding outstanding projects .
 
-
+<a href="https://app.daily.dev/ibrahim_zak10"><img src="https://api.daily.dev/devcards/b9ad9c49d2f047c6a8ac65de39527e6a.png?r=8v6" width="400" alt="Ibrahim_zakaria's Dev Card"/></a>
 
 :mailbox: Reach me out!
 
